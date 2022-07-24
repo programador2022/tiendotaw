@@ -1,0 +1,25 @@
+{
+  "name": "tiendotaw",
+  "version": "1.0.0",
+  "description": "tiendotaw",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programador2022/tiendotaw.git"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "css"
+  ],
+  "author": "wamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programador2022/tiendotaw/issues"
+  },
+  "homepage": "http://programador2022.github.io/apijson"
+}
